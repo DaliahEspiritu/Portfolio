@@ -1,1 +1,2 @@
-This is the link of my website portfolio --> https://daliahportfolio.web.app/
+This is the link of my website portfolio --> https://zingy-baklava-c00a12.netlify.app/
+
